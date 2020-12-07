@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script>
+        let xhr = new XMLHttpRequest
+        xhr.open('GET', 'https://api.github.com/users/DiogoJBasso')
+        xhr.send(null)
+        xhr.onreadystatechange = async function() {
+        if (xhr.readyState === 4){
+            addTable()
+            }
+        }
+        function addTable() {
+        let myTableDiv = document.getElementById("myDynamicTable");
+        let table = document.createElement('TABLE');
+        let tableBody = document.createElement('TBODY');
+        table.appendChild(tableBody);
+        object = JSON.parse(xhr.response)
+        for (let key in object) {
+          if (key.trim() != ''){
+            const element = object[key]; //Diogo
+            let tr = document.createElement('tr');
+            tableBody.appendChild(tr)        
+            let td = document.createElement('td');    
+            td.appendChild(document.createTextNode(element))
+            tr.appendChild(td)
+        }
+        }myTableDiv.appendChild(table);
+        }
+
+    </script>
+    <title>Requisição XHR</title>
+</head>
+<body>
+    <h3>Response Github</h3>
+    <div id="myDinamicTable"></div>
+</body>
+</html>
+
