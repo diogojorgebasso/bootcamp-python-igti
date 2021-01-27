@@ -1,0 +1,14 @@
+{
+  "name": "bootcamp-python-igti",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/diogojorgebasso/bootcamp-python-igti.git",
+  "author": "Diogo Basso <diogojbasso@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "standard-version": "^9.1.0"
+  },
+  "scripts": {
+    "release": "standard-version"
+  }
+}
