@@ -51,7 +51,7 @@
 
 #### Resumo
 
-No primeiro módulo, vamos desde o _básico do básico_ até a avançada _concepção introdutória de classes_, ou seja, o Professor mostra para que o Python é criado e todas as ferramentas que essa linguagem fornece e fomenta, respectivamente de acordo com a grade:
+No primeiro módulo, vamos desde o _básico do básico_ até a avançada _concepção introdutória de classes_, ou seja, o Professor mostra para que o Python é criado e todas as ferramentas que essa linguagem fornece e fomenta, respetivamente de acordo com a grade:
 
 1. condicionais "if-else",
 2. estruturas de repetição,
@@ -61,12 +61,21 @@ No primeiro módulo, vamos desde o _básico do básico_ até a avançada _concep
 6. operador in, e
 7. Classes
 
-### Módulo II
-
 #### Gists
 
-- Leitura do DataSet em CSV: https://gist.github.com/diogojorgebasso/2fcbc904ee64d7918920fa8e6d215a43
+-
+
+### Módulo II
+
+<details>
+           <summary>#### Gists</summary>
+           - Leitura do DataSet em CSV: https://gist.github.com/diogojorgebasso/2fcbc904ee64d7918920fa8e6d215a43
 - Informações básicas: https://gist.github.com/diogojorgebasso/ab8f335c60bcda02cd8be99e767cce51
+- Pré processamento de dias: https://gist.github.com/diogojorgebasso/9710679a1c86c02397beb03f34c4ff75
+- Pré processamento de valores categóricos com Pandas: https://gist.github.com/diogojorgebasso/9cb41b69800144d09e9240b8c49b5022
+- Visualização simples no gráfico bidimensional: https://gist.github.com/diogojorgebasso/63c2fa62aaf7412c6e48967c0e337070
+- Visualização de séries temporais com Seaborn e Matplotlib: https://gist.github.com/diogojorgebasso/eb8118a978d31005b369ea1241c1b83f
+         </details>
 
 ### Módulo III
 
