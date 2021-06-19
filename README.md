@@ -49,9 +49,9 @@
 
 ### Módulo I - Fundamentos Desenvolvedor Python
 
-#### Resumo
+#### Suma
 
-No primeiro módulo, vamos desde o _básico do básico_ até a avançada _concepção introdutória de classes_, ou seja, o Professor mostra para que o Python é criado e todas as ferramentas que essa linguagem fornece e fomenta, respetivamente de acordo com a grade:
+No primeiro módulo, vamos desde o _básico do básico_ até a avançada _concepção de classes_, ou seja, o professor mostra para que razão o Python foi criado e todas as ferramentas anexas. Nas aulas foi abordado, respectivamente:
 
 1. condicionais "if-else",
 2. estruturas de repetição,
@@ -59,11 +59,11 @@ No primeiro módulo, vamos desde o _básico do básico_ até a avançada _concep
 4. funções,
 5. Extração de informação de XML,
 6. operador in, e
-7. Classes
+7. Classes.
 
-#### Gists
+#### Gists para facilitar o código
 
--Examplo de classe com o funcionamento de um carro: https://gist.github.com/diogojorgebasso/a82d3f87c1237d1cc5b6024b130c51bb
+-Exemplo de classe com o funcionamento de um carro: https://gist.github.com/diogojorgebasso/a82d3f87c1237d1cc5b6024b130c51bb
 
 ### Módulo II
 

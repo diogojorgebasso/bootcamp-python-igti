@@ -1,7 +1,9 @@
+# Tabela exemplificando a nomenclatura primordial de Python
+
 | Palavra Chave | Descrição                                          | Exemplo de utilização                                      |
 | ------------- | -------------------------------------------------- | ---------------------------------------------------------- |
-| and           | Operador lógico AND                                | (5==5 and 1==2) == False                                   |
-| as            | Utilizado como sinônimo de algum objeto/referência | import matplotlib.pyplot as plt                            |
+| and           | Operador lógico AND                                | `py (5==5 and 1==2) == False`                              |
+| as            | Utilizado como sinônimo de algum objeto/referência | `py import matplotlib.pyplot as plt`                       |
 | class         | Utilizada para criar uma classe (POO)              | `py class GeraNumerosAleatorios()`                         |
 | def           | Define funções                                     | `py def adicao(a,b)`                                       |
 | del           | Deleta referências                                 | `py del erro`                                              |
