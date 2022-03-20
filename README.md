@@ -2,7 +2,12 @@
 
 > Esse repositório contempla os códigos expostos, juntamente com sua aplicabilidade, do bootcamp realizado durante **2 meses!**
 
-![Image](https://raw.githubusercontent.com/diogojorgebasso/bootcamp-python-igti/f8a88dd16406884f20a3cbc65295e2fc84d7a8ef/certificado_diogojbasso)
+<object data="https://raw.githubusercontent.com/diogojorgebasso/bootcamp-python-igti/f8a88dd16406884f20a3cbc65295e2fc84d7a8ef/certificado_diogojbasso.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="https://raw.githubusercontent.com/diogojorgebasso/bootcamp-python-igti/f8a88dd16406884f20a3cbc65295e2fc84d7a8ef/certificado_diogojbasso.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://raw.githubusercontent.com/diogojorgebasso/bootcamp-python-igti/f8a88dd16406884f20a3cbc65295e2fc84d7a8ef/certificado_diogojbasso.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
+
 ## 📘 Resumo
 
 > Todos os códigos do curso estão linkados na [tabela de conteúdos](#table_of_contents "Tabela de Conteúdos").
