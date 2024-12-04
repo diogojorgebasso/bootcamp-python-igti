@@ -1,16 +1,16 @@
 # Bootcamp de Python
 
-Esse repositório contempla os códigos do bootcamp Python, da anitga IGTI, hoje XP Educação, realizado durante minhas férias escolares de 2021.
+Esse repositório contempla os códigos do bootcamp Python, da anitga IGTI, hoje XP Educação, realizado durante minhas férias escolares de 2021. Quero usá-lo como uma desculpa para compartilhar meu conhecimento em Python. Se você quiser, nesse repositório existem vários checkpoints para você ir se guiando. Seja o meu convidado de honra!
 
 ## 📘 Resumo
 
 > Todos os códigos do curso estão linkados na [tabela de conteúdos](#table_of_contents "Tabela de Conteúdos").
 
-Durante o bootcamp, minha visão sobre tecnologia e inovação se expandiu:
+Durante o bootcamp, espero que sua visão assim como a minha também se amplie sobre tecnologia e inovação. Eis algumas tecnologias que serão usadas:
 
-Conheci novas bibliotecas em Python.
-Aprendi novas tecnologias e termos.
-Conectei-me com novas pessoas, fortalecendo minha rede de contatos.
+- [Pandas](https://pandas.pydata.org/)
+- [Scikit Learn](https://scikit-learn.org/stable/)
+- [Django](https://www.djangoproject.com/)
 
 ## 📋 Tabela de Conteúdos:
 
@@ -44,6 +44,8 @@ Conectei-me com novas pessoas, fortalecendo minha rede de contatos.
 - Conclusão
 ```
 
+## Como usar esse
+
 ### Módulo I - Fundamentos Desenvolvedor Python
 
 No primeiro módulo, vamos desde o _básico do básico_ até a avançada _concepção de classes_, ou seja, o professor mostra para que razão o Python foi criado e todas as ferramentas anexas. Nas aulas foi abordado, respectivamente:
@@ -58,19 +60,4 @@ No primeiro módulo, vamos desde o _básico do básico_ até a avançada _concep
 
 #### Gists para facilitar o código
 
--Exemplo de classe com o funcionamento de um carro: https://gist.github.com/diogojorgebasso/a82d3f87c1237d1cc5b6024b130c51bb
-
-           <summary>#### Gists</summary>
-           - Leitura do DataSet em CSV: https://gist.github.com/diogojorgebasso/2fcbc904ee64d7918920fa8e6d215a43
-
-- Informações básicas: https://gist.github.com/diogojorgebasso/ab8f335c60bcda02cd8be99e767cce51
-- Pré processamento de dias: https://gist.github.com/diogojorgebasso/9710679a1c86c02397beb03f34c4ff75
-- Pré processamento de valores categóricos com Pandas: https://gist.github.com/diogojorgebasso/9cb41b69800144d09e9240b8c49b5022
-- Visualização simples no gráfico bidimensional: https://gist.github.com/diogojorgebasso/63c2fa62aaf7412c6e48967c0e337070
 - Visualização de séries temporais com Seaborn e Matplotlib: https://gist.github.com/diogojorgebasso/eb8118a978d31005b369ea1241c1b83f
-
-## Informações adicionais
-
-- Todos os códigos aqui mencionados foram retirados de documentos de pesquisa pessoal, excerto do material disponibilizado e conhecimento público geral sobre Python;
-- Os códigos foram todos executados no Google Colaboratory para não usar recursos locais e disponibilizar de maneira mais simples;
-- Se diverta! Brilhe cada vez mais!
