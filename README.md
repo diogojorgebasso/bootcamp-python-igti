@@ -81,14 +81,7 @@ No primeiro módulo, vamos desde o _básico do básico_ até a avançada _concep
 - Pré processamento de valores categóricos com Pandas: https://gist.github.com/diogojorgebasso/9cb41b69800144d09e9240b8c49b5022
 - Visualização simples no gráfico bidimensional: https://gist.github.com/diogojorgebasso/63c2fa62aaf7412c6e48967c0e337070
 - Visualização de séries temporais com Seaborn e Matplotlib: https://gist.github.com/diogojorgebasso/eb8118a978d31005b369ea1241c1b83f
-- Agrupamento de dados da coluna com Pandas: https://gist.github.com/diogojorgebasso/e27d0031b91dcbff48d89adcf7dbb02d
          </details>
-
-### Módulo III
-
-### Módulo IV
-
-## Conclusão
 
 Analisando hoje, vi que valeu muito a pena os desafios, as aulas e tud
 
